@@ -1,0 +1,24 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 640 800" role="img" aria-labelledby="title desc">
+  <title id="title">Professional headshot placeholder</title>
+  <desc id="desc">A neutral portrait-style placeholder card with a professional silhouette.</desc>
+  <defs>
+    <linearGradient id="bg" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#1a2636" />
+      <stop offset="100%" stop-color="#0c1420" />
+    </linearGradient>
+    <linearGradient id="accent" x1="0%" y1="0%" x2="100%" y2="0%">
+      <stop offset="0%" stop-color="#6ba4ff" stop-opacity="0.9" />
+      <stop offset="100%" stop-color="#8de0d3" stop-opacity="0.9" />
+    </linearGradient>
+  </defs>
+  <rect width="640" height="800" rx="36" fill="url(#bg)" />
+  <rect x="52" y="52" width="536" height="696" rx="28" fill="none" stroke="#ffffff" stroke-opacity="0.18" />
+  <rect x="96" y="88" width="210" height="28" rx="14" fill="url(#accent)" opacity="0.95" />
+  <text x="96" y="150" fill="#e8eef5" font-family="Arial, sans-serif" font-size="34" letter-spacing="6">ALLEN GEORGE</text>
+  <text x="96" y="188" fill="#aebfce" font-family="Arial, sans-serif" font-size="18" letter-spacing="4">PROFESSIONAL HEADSHOT</text>
+  <circle cx="320" cy="330" r="118" fill="#cfd7df" opacity="0.96" />
+  <path d="M170 650c18-112 98-176 150-176s132 64 150 176" fill="#cfd7df" opacity="0.96" />
+  <path d="M210 638c20-78 73-122 110-122s90 44 110 122" fill="#9aaabd" opacity="0.75" />
+  <rect x="96" y="684" width="448" height="1" fill="#2c3b4c" />
+  <text x="96" y="724" fill="#8fa2b4" font-family="Arial, sans-serif" font-size="18" letter-spacing="3">REPLACE WITH FINAL PORTRAIT WHEN READY</text>
+</svg>
